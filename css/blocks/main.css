@@ -1,0 +1,14 @@
+.main__container {
+    display: flex;
+}
+
+.main__title {
+    font-size: 22px;
+    padding: 40px 47px 50px 40px;
+}
+
+.main__title-wrapper {
+    background: linear-gradient(90.95deg, #FFA462 0%, #B45350 21.79%, #8A2645 48.93%, #291725 84.55%);
+    border-radius: 30px;
+    margin-bottom: 60px;
+}

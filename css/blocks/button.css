@@ -1,0 +1,12 @@
+.button-signup {
+    justify-content: center;
+    border-radius: 40px;
+    box-shadow: 4px 4px 20px 0px rgba(223, 80, 23, 0.8), 4px 4px 6px 0px rgba(255, 255, 255, 0.5) inset;
+    background-color: rgba(158, 11, 55, 0.7);
+    padding: 14px 22px;
+    color: #ffffff;
+}
+
+.button-signup:hover {
+    font-weight: 600;
+}

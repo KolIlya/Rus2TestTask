@@ -1,0 +1,36 @@
+.psevdo-elipse-1::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 97px;
+    height: 97px;
+    left: 668px;
+    top: 31px;
+    background: url(../../image/Pdf1.png) center center no-repeat, linear-gradient(147.64deg, #FFFFFF 30.8%, #C1C0C4 57.13%, #86848D 72.92%, #343140 82.7%);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8), -3px -3px 20px rgba(255, 255, 255, 0.18), inset -4px -4px 6px rgba(255, 255, 255, 0.5);
+    border-radius: 50px;
+}
+
+.psevdo-elipse-2::before {
+    content: '';
+    position: absolute;
+    width: 97px;
+    height: 97px;
+    left: 333px;
+    top: 96px;
+    background: url(../../image/Ailogo1.png) center center no-repeat, linear-gradient(147.64deg, #FFFFFF 30.8%, #C1C0C4 57.13%, #86848D 72.92%, #343140 82.7%);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8), -3px -3px 20px rgba(255, 255, 255, 0.18), inset -4px -4px 6px rgba(255, 255, 255, 0.5);
+    border-radius: 50px;
+}
+
+.psevdo-elipse-3::before {
+    content: '';
+    position: absolute;
+    width: 97px;
+    height: 97px;
+    left: 1008px;
+    top: 96px;
+    background: url(../../image/Ailogo3.png) center center no-repeat, linear-gradient(147.64deg, #FFFFFF 30.8%, #C1C0C4 57.13%, #86848D 72.92%, #343140 82.7%);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8), -3px -3px 20px rgba(255, 255, 255, 0.18), inset -4px -4px 6px rgba(255, 255, 255, 0.5);
+    border-radius: 50px;
+}

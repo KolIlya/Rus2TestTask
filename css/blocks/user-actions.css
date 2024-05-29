@@ -1,0 +1,26 @@
+.user-actions {
+    font-size: 16px;
+    display: flex;
+    font-weight: 500;
+    justify-content: space-between;
+    margin: auto 0;
+}
+
+.user-actions__list {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    padding: 2px 0;
+}
+
+.user-actions__item {
+    margin-right: 40px;
+}
+
+.user-actions__item:last-child {
+    margin-right: 0;
+}
+
+.user-actions__item:hover {
+    font-weight: 600;
+}

@@ -1,0 +1,11 @@
+.info__image {
+    margin-right: 14px;
+}
+
+.info__image-3 {
+    margin-right: 167px;
+}
+
+.info__image:last-child {
+    margin-right: 0;
+}

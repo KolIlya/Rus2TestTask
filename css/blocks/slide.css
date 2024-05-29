@@ -1,0 +1,38 @@
+.slide__list {
+	-webkit-animation: scroll 30s linear infinite;
+	animation: scroll 30s linear infinite;
+	display: flex;
+	width: calc(400px * 10);
+}
+
+.slide__list-second {
+	margin-left: 200px;
+}
+
+.slide__item {
+    margin-right: 20px;
+	height: 280px;
+	width: 400px;
+}
+
+.slide__item-image {
+	border-radius: 30px;
+}
+
+@-webkit-keyframes scroll {
+	0% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(calc(-250px * 7));
+	}
+}
+
+@keyframes scroll {
+	0% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(calc(-250px * 7));
+	}
+}
